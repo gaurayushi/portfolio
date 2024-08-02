@@ -8,6 +8,7 @@ import { navItems } from "@/data";
 import Experience from "./components/Experience";
 import Blog from "./components/ui/Blog";
 import Footer from "./components/ui/Footer";
+import * as Sentry from '@sentry/nextjs';
 
 export default function Home() {
   return (
