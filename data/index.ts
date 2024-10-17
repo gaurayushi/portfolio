@@ -13,7 +13,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Driven to Innovate and Grow in Dynamic Team Environments ",
+      title: "I thrive in dynamic team environments and am passionate about building efficient, user-friendly web solutions. ",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -43,7 +43,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Tech enthusiast.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -53,8 +53,8 @@ export const navItems = [
     },
     {
       id: 5,
-      title: "Amazon Clone",
-      description: "Currently Building  a comprehensive replica of Amazon, featuring a user-friendly interface and full e-commerce functionality",
+      title: "u tube clone ",
+      description: "Currently Building  a comprehensive replica of  u tube, featuring a user-friendly interface and full functionality",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -79,17 +79,17 @@ export const navItems = [
   export const projects = [
     {
       "id": 1,
-      "title": "Social App",
-      "des": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
+      "title": "Email-Spam-Detection-",
+      "des": "This project focuses on developing a machine learning model to classify emails as either spam or not spam (ham). The primary objective is to leverage natural language processing (NLP) and machine learning algorithms to accurately detect spam emails",
       "img": "/p1.svg",
-      "iconLists": ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      "link": "https://github.com/gaurayushi/Socialapp.git"
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      "link": "https://github.com/gaurayushi/Email-Spam-Detection-"
     }
 ,    
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "NewsStream ",
+      des: "NewsStream is an automated platform that aggregates the latest news from around the world. It leverages a powerful API to fetch and filter, storing them in a database for easy access..",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "",
@@ -160,17 +160,19 @@ export const Credentials = [
 
   {
     id: 3,
-    title: "freeCodeCamp Front End Development &  Backend  Libraries ",
-    desc: "Earned certification in Front End Development Libraries from freeCodeCamp.",
+    title: "Front End Development  ",
+    desc: "Responsive Web Design Certification, Infosys Springboard",
     className: "md:col-span-2",
   thumbnail: "/exp3.svg",
+  link: 'https://www.linkedin.com/in/ayushi-gaur-72a060299/overlay/1724253614636/single-media-viewer/?profileId=ACoAAEgWuhIBKy_RTBvrchYEBepkMk98_6_qi-4',
   },
   {
     id: 4,
-    title: "Salesforce App Builder Certification",
-    desc: "Earned certification as a Salesforce App Builder.",
+    title: "C Programming Training ,IIT Bombay",
+    desc: " Successfully completed with  score of 82.50%..",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
+    link:'https://www.linkedin.com/in/ayushi-gaur-72a060299/overlay/1723085622981/single-media-viewer/?profileId=ACoAAEgWuhIBKy_RTBvrchYEBepkMk98_6_qi-4',
   },
 ];
 
